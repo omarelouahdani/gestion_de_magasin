@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1555025655 source:c:\users\jocker\desktop\gestion de magasin\gestion_magasin\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"client.h"
+	"menu.h"
+
+1555025655 c:\users\jocker\desktop\gestion de magasin\gestion_magasin\client.h
+
+1554939673 c:\users\jocker\desktop\gestion de magasin\gestion_magasin\menu.h
+
+1555078200 source:c:\users\jocker\desktop\gestion de magasin\gestion_magasin\ligne_commande.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ligne_commande.h"
+	"client.h"
+	"produit.h"
+
+1554939811 c:\users\jocker\desktop\gestion de magasin\gestion_magasin\ligne_commande.h
+	"produit.h"
+
+1555025654 c:\users\jocker\desktop\gestion de magasin\gestion_magasin\produit.h
+
+1554917198 source:c:\users\jocker\desktop\gestion de magasin\gestion_magasin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1555005730 source:c:\users\jocker\desktop\gestion de magasin\gestion_magasin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"client.h"
+	"produit.h"
+	"vente.h"
+	"menu.h"
+	"paiement.h"
+	"ligne_commande.h"
+	"paiement_vente.h"
+
+1554997420 c:\users\jocker\desktop\gestion de magasin\gestion_magasin\vente.h
+	"produit.h"
+	"client.h"
+	"ligne_commande.h"
+	"menu.h"
+
+1554998511 c:\users\jocker\desktop\gestion de magasin\gestion_magasin\paiement.h
+	"client.h"
+	"produit.h"
+	"ligne_commande.h"
+	"menu.h"
+	"vente.h"
+
+1555005623 c:\users\jocker\desktop\gestion de magasin\gestion_magasin\paiement_vente.h
+	"vente.h"
+	"paiement.h"
+
+1554998619 source:c:\users\jocker\desktop\gestion de magasin\gestion_magasin\paiement.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paiement.h"
+	"menu.h"
+
+1555006649 source:c:\users\jocker\desktop\gestion de magasin\gestion_magasin\paiement_vente.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"paiement_vente.h"
+
+1555025654 source:c:\users\jocker\desktop\gestion de magasin\gestion_magasin\produit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produit.h"
+
+1554998272 source:c:\users\jocker\desktop\gestion de magasin\gestion_magasin\vente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ligne_commande.h"
+	"client.h"
+	"produit.h"
+	"vente.h"
+
